@@ -1,0 +1,154 @@
+.patientname{
+    border-radius: 10px;
+    height:6vh;
+    width: 30vh;
+}
+.patientname1{
+  
+  border-radius: 10px;
+  height:6vh;
+  width: 29vh;
+}
+.large-checkbox123{
+    margin-top: 2vh;
+
+}
+.large-checkbox123 input[type="checkbox"] {
+    width: 20px; /* Set the desired width */
+    height: 30px; /* Set the desired height */
+    margin-right: 15px;
+    text-align: center;
+  }
+  .patientpagecss{
+    margin: 2vh;
+  }
+  .notificationcsspatient{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:   rgb(70, 102, 139);
+    color: white;
+    margin-left: 50%;
+  }
+  .patientpagecss1{
+    margin: 45px;
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .patientpagecss2{
+    margin: 6vh;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .patientbuttoncss{
+    margin-left: 80%;
+    background-color:  rgb(70, 102, 139);
+    border: 1px solid  rgb(70, 102, 139);
+    color: white;
+    width: 18%;
+    height: 5vh;
+    border-radius: 10px;
+  }
+  .corporatebuttonkyccss{
+    margin: 5vh;
+    margin-left: 80%;
+    height: 5vh;
+    color: white;
+    border-radius: 10px;
+    width: 15%;
+    background-color:   rgb(70, 102, 139);
+    border: 1px solid    rgb(70, 102, 139);
+  }
+  .companyholdercss{
+    border: 1px solid rgb(236, 243, 243);
+    width: 100%;
+    height: 70vh;
+    border-radius: 15px;
+    background-color:rgb(236, 243, 243) ;
+    margin-left: 2px;
+    margin-bottom: 10px;
+  }
+  .companyholdercss1{
+    border: 1px solid rgb(236, 243, 243);
+    width: 93%;
+    height: 62vh;
+    border-radius: 15px;
+    background-color:white ;
+    margin-left: 5vh;
+    margin-top: 4vh;
+    
+  }
+ .rowcompanycss{
+  margin: 25px;
+ }
+ .corporabottuntebuttoncss{
+  margin-left: 80%;
+  background-color:  rgb(70, 102, 139);
+  border: 1px solid  rgb(70, 102, 139);
+  color: white;
+  width: 20%;
+  border-radius: 10px;
+ }
+ .CpmpanyDetailscssnotification1{
+  
+  margin-left: 52%;
+  border: 1px solid  rgb(70, 102, 139);
+  border-radius: 5px;
+  background-color:   rgb(70, 102, 139);
+  color: white;
+ }
+ .patientnotification{
+  margin-left: 40%;
+  border: 1px solid  rgb(70, 102, 139);
+  border-radius: 5px;
+  background-color:   rgb(70, 102, 139);
+  color: white;
+
+ }
+ .dashboardpiccss1{
+  height: 6vh;
+  border-radius: 20px;
+  margin-left: 20px;
+  
+ }
+ .divcss12{
+  font-size: 20px;
+  margin-left: 20px;
+ }
+ .patientcssfordiv1{
+  border: 1px solid rgb(236, 243, 243) ;
+  background-color: rgb(236, 243, 243);
+  width: 95%;
+  margin: 20px;
+  height: 90%;
+  border-radius: 15px;
+ }
+ .patientcssfordiv2{
+  width: 95%;
+  border: 1px solid white;
+  height: 90%;
+  border-radius: 15px;
+  background-color: white;
+  margin: 25px;
+ }
+ .patientfinaldivcss{
+  margin-top: 40px;
+  margin-left: 40px;
+  
+ }
+ .patientholderdiv1{
+  border: 1px solid rgb(236, 243, 243) ;
+  background-color: rgb(236, 243, 243);
+  width: 95%;
+  margin: 20px;
+  height: 80%;
+  border-radius: 15px;
+ }
+ .patientholderdiv2{
+  width: 95%;
+  border: 1px solid white;
+  height: 90%;
+  border-radius: 15px;
+  background-color: white;
+  margin: 25px;
+ }

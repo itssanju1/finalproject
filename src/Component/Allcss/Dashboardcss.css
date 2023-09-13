@@ -1,0 +1,253 @@
+.addcorporatecssbutton{
+    margin-top: 3vh;
+    margin-left: 5vh;
+    height: 5vh;
+    width: 19vh;
+    color: white;
+    background-color: rgb(70, 102, 139);
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 18px;
+    border: 1px solid  rgb(70, 102, 139);
+}
+.notificationcss{
+    margin-bottom: 1vh;
+    margin-left: 4vh;
+    border: 1px solid  rgb(70, 102, 139);
+    border-radius: 5px;
+    background-color:   rgb(70, 102, 139);
+    color: white;
+}
+.pdashboard{
+    margin-left: 2vh;
+  color: rgb(122, 121, 121);
+
+}
+.dashboardpiccss14{
+    height: 8vh;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-bottom: 1vh;
+}
+.dashboardanlysiscss{
+    border: 1px solid rgb(236, 243, 243);
+    width: 100%;
+    height: 35vh;
+    border-radius: 15px;
+    background-color:rgb(236, 243, 243) ;
+    margin-left: 5px;
+}
+.dashboardanlysiscss1{
+    margin: 10px;
+    margin-left: 4vh;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(54, 40, 95);
+}
+.dashboardanlysiscss2{
+    border: 1px solid rgb(236, 243, 243);
+    width: 90%;
+    height: 35vh;
+    border-radius: 15px;
+    background-color:rgb(236, 243, 243) ;
+    margin-left: 5px;
+}
+.dashboardanlysiscss3{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.dashboardanlysiscss4{
+    border: 1px solid rgb(236, 243, 243);
+    width: 100%;
+    height: 33vh;
+    border-radius: 15px;
+    background-color:rgb(236, 243, 243) ;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.dashboardanlysiscss5{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.dashboardanlysiscss6{
+    border: 1px solid rgb(236, 243, 243);
+    width: 100%;
+    height: 15vh;
+    border-radius: 15px;
+    background-color:rgb(236, 243, 243) ;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.dashboardanlysiscss7{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.dashboardanlysiscss8{
+    border: 1px solid rgb(236, 243, 243);
+    width: 94%;
+    height: 49vh;
+    border-radius: 15px;
+    background-color:rgb(236, 243, 243) ;
+    
+    margin-top: 10px;
+}
+.dashboardanlysiscss9{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.boraderdashboardforhead{
+    border-bottom: 1px solid rgb(233, 232, 232);
+    margin-bottom: 3vh;
+    margin-left: 0px;
+}
+
+.dashboardpiccss1{
+    height: 6vh;
+    border-radius: 20px;
+    /* margin-right: 40vh; */
+    /* margin-bottom: 1vh; */
+    margin: 12px;
+    /* margin-left: 3vh; */
+}
+.pendingbuttonh5{
+    
+    margin-bottom: 25vh;
+}
+.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .content {
+    margin-right: 10px; /* Adjust the spacing between content and image */
+  }
+  
+  .image {
+    max-width: 20px; /* Adjust the image size as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  .h6widthsatecss{
+    margin-left: 10vh;
+    margin-bottom: 10%;
+  }
+  .discharedtable{
+    margin-left: 2vh;
+    width: 95%;
+    
+
+    border-bottom:1px solid rgb(74, 75, 75) ;
+    background-color:rgb(236, 243, 243) ;
+    border: 1px solid rgb(236, 243, 243);
+  }
+ .discharedtable th{
+    background-color:rgb(236, 243, 243) ;
+    
+ }
+ .discharedtable td{
+    background-color:rgb(236, 243, 243) ;
+    border: 1px solid rgb(236, 243, 243);
+ }
+ .discharedtable thead tr th {
+    border: 1px solid white;
+    background-color: white;
+    
+ }
+ .discharedtable tbody tr td{
+    border-bottom: 1px solid rgb(199, 199, 199);
+ }
+.buttonfever{
+    width: 100%;
+    height: 4vh;
+    border: 1px solid rgb(199, 88, 88);
+    background-color: rgb(199, 88, 88);
+    color: white;
+}
+.buttononpending{
+    color: rgb(93, 161, 93);
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 18vh;
+}
+.pendingbuttonbar{
+    border: 1px solid white;
+    height: 8vh;
+    background-color: white;
+    width: 90%;
+    margin-left: 3vh;
+    border-radius: 15px;
+}
+.dashboardpiccss1000{
+    height: 5vh;
+    border-radius: 20px;
+    /* margin-right: 40vh; */
+    /* margin-bottom: 1vh; */
+    margin: 12px;
+    /* margin-left: 3vh; */
+}
+.forh6pendingcss{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.forh6pendingcss1{
+    font-size: 13px;
+    font-weight: 400;
+}
+.pendingbuttonbar1{
+    border: 1px solid white;
+    height: 8vh;
+    background-color: white;
+    width: 90%;
+    margin-left: 3vh;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+.pendingbuttonbar12{
+    border: 1px solid white;
+    height: 6vh;
+    background-color: white;
+    width: 90%;
+    margin-left: 3vh;
+    border-radius: 15px;
+    
+}
+.dashboardpiccss10000{
+
+    height: 5vh;
+    border-radius: 20px;
+    /* margin-right: 40vh; */
+    /* margin-bottom: 1vh; */
+    margin: 3px;
+    /* margin-left: 3vh; */
+    margin-left: 2vh;
+}
+.KeyboardArrowRightIconcss{
+    margin-left: 50%;
+    margin-top: 10px;
+}
+.DownloadDoneIconcss{
+    background-color:white;
+    color: rgb(119, 192, 132);
+    margin: 15px;
+    margin-left: 20px;
+}
+.pendingbuttonbar1{
+    border: 1px solid white;
+    height: 8vh;
+    background-color: white;
+    width: 90%;
+    margin-left: 3vh;
+    border-radius: 15px;
+    margin-top: 5px;
+}

@@ -1,0 +1,79 @@
+.KycDetailCorporate0{
+    margin: 2vh;
+    font-size: 15px;
+  }
+  .KycDetailCorporatenotification{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:   rgb(70, 102, 139);
+    color: white;
+    margin-left: 50%;
+  }
+  .kycdetailbuttoncorporate{
+    margin: 10vh;
+    margin-left: 85%;
+    width: 15%;
+    border: 1px solid  rgb(70, 102, 139);
+    border-radius: 5px;
+    background-color:  rgb(70, 102, 139);
+    color: white;
+    height: 6vh;
+   
+  }
+  .kycdetaildiv1{
+    border: 1px solid rgb(236, 243, 243) ;
+  background-color: rgb(236, 243, 243);
+  width: 95%;
+  margin: 20px;
+  height: 77%;
+  border-radius: 15px;
+  }
+  .kycdetaildiv2{
+    width: 95%;
+    border: 1px solid white;
+    height: 85;
+    border-radius: 15px;
+    background-color: white;
+    margin: 25px;
+  }
+  .kycdetaildiv3{
+    margin: 40px;
+  }
+  .kycdetail2div1{
+    border: 1px solid rgb(236, 243, 243) ;
+  background-color: rgb(236, 243, 243);
+  width: 95%;
+  margin: 20px;
+  height: 77%;
+  border-radius: 15px;
+  }
+  .kycdetail2div2{
+    width: 95%;
+    border: 1px solid white;
+    height: 80;
+    border-radius: 15px;
+    background-color: white;
+    margin: 25px;
+  }
+  .kycdetail2div3{
+    margin: 35px;
+  }
+  .buttonkyc2corporat12{
+    margin-top:6vh;
+    margin-left: 80%;
+    width: 15%;
+    border: 1px solid  rgb(70, 102, 139);
+    border-radius: 5px;
+    background-color:  rgb(70, 102, 139);
+    color: white;
+    height: 6vh;
+  }
+  .kycdetail2notification{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:   rgb(70, 102, 139);
+    color: white;
+    margin-left: 40%;
+  }

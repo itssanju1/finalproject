@@ -1,0 +1,49 @@
+.StateorPincodecss{
+    margin: 2vh;
+}
+.notificationcsspincode{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:   rgb(70, 102, 139);
+    color: white;
+    margin-left: 50%;
+}
+.StateorPincodecsshead{
+    margin: 40px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.StateorPincodecsstext{
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.statepincssbutton{
+    margin-left: 80%;
+    background-color:  rgb(70, 102, 139);
+    border: 1px solid  rgb(70, 102, 139);
+    color: white;
+    width: 18%;
+    height: 5vh;
+    border-radius: 10px;
+    margin-top: 25vh;
+
+}
+.statepindiv1{
+    border: 1px solid rgb(236, 243, 243) ;
+    background-color: rgb(236, 243, 243);
+    width: 95%;
+    margin: 20px;
+    height: 85%;
+    border-radius: 15px;
+}
+.statepindiv2{
+    width: 95%;
+    border: 1px solid white;
+    height: 90%;
+    border-radius: 15px;
+    background-color: white;
+    margin: 25px;
+}

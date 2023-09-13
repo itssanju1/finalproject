@@ -1,0 +1,119 @@
+.radiocss0{
+    margin-left: 30%;
+}
+.selectcss{
+    height: 40px;
+    width: 80%;
+    border:2px solid rgb(158, 157, 157);
+    border-radius: 10px;
+}
+.divcss2{
+    font-size: 20px;
+}
+.conditionscss{
+height: 20px;
+}
+.large-checkbox input[type="checkbox"] {
+    width: 30px; /* Set the desired width */
+    height: 30px; /* Set the desired height */
+    margin-right: 15px;
+  }
+  .buttoncss01{
+    margin-left: 50%;
+  }
+  .medicalcss1{
+    margin: 2vh;
+  }
+  .medicalnotification{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:   rgb(70, 102, 139);
+    color: white;
+    margin-left: 52%;
+  }
+  .medicalcss2{
+    margin: 2vh;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .medicalcss3{
+    margin: 1vh;
+    font-size: 20px;
+    margin-left: 5vh;
+  }
+  .medicalbuton{
+    margin-left: 80%;
+    background-color:  rgb(70, 102, 139);
+    border: 1px solid  rgb(70, 102, 139);
+    color: white;
+    width: 18%;
+    height: 5vh;
+    border-radius: 10px;
+    
+  }
+  .CpmpanyDetailscss{
+margin: 2vh;
+  }
+  .CpmpanyDetailscssnotification{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:  rgb(40, 116, 187);
+    color: white;
+    margin-left: 50%;
+  }
+  .medicalbuttoncorporate{
+    margin-left: 80%;
+    background-color:  rgb(70, 102, 139);
+    border: 1px solid  rgb(70, 102, 139);
+    color: white;
+    width: 18%;
+    height: 5vh;
+    border-radius: 10px;
+
+  }
+  .medicalotification{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:   rgb(70, 102, 139);
+    color: white;
+    margin-left: 42%;
+  }
+  .medicaldiv1{
+    border: 1px solid rgb(236, 243, 243) ;
+  background-color: rgb(236, 243, 243);
+  width: 95%;
+  margin: 20px;
+  height: 85%;
+  border-radius: 15px;
+  }
+  .medicaldiv2{
+    width: 95%;
+    border: 1px solid white;
+    height: 90%;
+    border-radius: 15px;
+    background-color: white;
+    margin: 25px;
+  }
+  .medicaldiv3{
+    margin: 2vh;
+    margin-left: 3vh;
+  }
+  .medicaldivcss1{
+    border: 1px solid rgb(236, 243, 243) ;
+    background-color: rgb(236, 243, 243);
+    width: 95%;
+    margin: 20px;
+    height: 80%;
+    border-radius: 15px;
+  }
+  .medicaldivcss2{
+    width: 95%;
+    border: 1px solid white;
+    height: 92%;
+    border-radius: 15px;
+    background-color: white;
+    margin: 25px;
+  }
